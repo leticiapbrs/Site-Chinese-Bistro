@@ -1,5 +1,5 @@
 # Site Chinese Bistro
- Developed during the course "HTML, CSS, and Javascript for Web Developers" on Coursera.
+ Developed during the course "HTML, CSS, and Javascript for Web Developers" on Coursera. My own authorship.
 
 ![image](https://user-images.githubusercontent.com/97967025/166299776-d6432c30-cb48-4779-855c-5ed1433455aa.png)
 ![image](https://user-images.githubusercontent.com/97967025/166299975-1eb47dd5-3af6-46f9-95ff-c43b7ff8fb38.png)
